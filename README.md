@@ -1,4 +1,4 @@
-# CS348-Group-Project
+# US-Crime-Analytics
 CS348 Group Project
 
 ***
